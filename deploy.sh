@@ -1,1 +1,2 @@
-this file contains the deployemnt status
+this file contains the deployemnt statuis
+new line added here
